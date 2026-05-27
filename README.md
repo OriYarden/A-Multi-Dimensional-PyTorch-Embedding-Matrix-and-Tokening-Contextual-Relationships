@@ -5,13 +5,13 @@ A Multi Dimensional PyTorch Embedding Matrix and Tokening Contextual Relationshi
 
 
 
-![description](https://github.com/OriYarden/A-Multi-Dimensional-PyTorch-Embedding-Matrix-and-Tokening-Contextual-Relationships/blob/main/Figure1.png)
+![Figure 1](https://github.com/OriYarden/A-Multi-Dimensional-PyTorch-Embedding-Matrix-and-Tokening-Contextual-Relationships/blob/main/Figure1.png)
 
 
-![description](https://github.com/OriYarden/A-Multi-Dimensional-PyTorch-Embedding-Matrix-and-Tokening-Contextual-Relationships/blob/main/Figure2.png)
+![Figure 2](https://github.com/OriYarden/A-Multi-Dimensional-PyTorch-Embedding-Matrix-and-Tokening-Contextual-Relationships/blob/main/Figure2.png)
 
 
-![description](https://github.com/OriYarden/A-Multi-Dimensional-PyTorch-Embedding-Matrix-and-Tokening-Contextual-Relationships/blob/main/Figure3.png)
+![Figure 3](https://github.com/OriYarden/A-Multi-Dimensional-PyTorch-Embedding-Matrix-and-Tokening-Contextual-Relationships/blob/main/Figure3.png)
 
 
 
